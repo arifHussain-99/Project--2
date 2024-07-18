@@ -1,2 +1,2 @@
 # Delta Student 
-CEO Arif Hussain
+CEO of TechSparks -> Arif Hussain
